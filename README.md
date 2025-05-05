@@ -1,6 +1,6 @@
 # Data-Driven-Stock-Analysis
 
-This project provides a comprehensive stock analysis for Nifty 50 companies using data from October 2023 to September 2024. It includes a Python-based Streamlit dashboard and interactive Power BI visualizations, offering rich insights into market trends, volatility, sector performance, price correlation, and monthly stock gainers/losers.
+This project provides a comprehensive stock analysis for Nifty 50 companies using data from December 2023 to November 2024. It includes a Python-based Streamlit dashboard and interactive Power BI visualizations, offering rich insights into market trends, volatility, sector performance, price correlation, and monthly stock gainers/losers.
 
 Project Overview:
 Data Source: Monthly YAML files for 50 Nifty stocks.
